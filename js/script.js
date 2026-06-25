@@ -1,8 +1,3 @@
-// Welcome Message
-window.onload = function () {
-    alert("Welcome to Swetha Sri Portfolio");
-};
-
 // Contact Form Message
 function showMessage() {
     alert("Thank You! Your message has been sent successfully.");
@@ -159,5 +154,5 @@ document.querySelectorAll("#nav-links a")
 
 // Console Message
 console.log(
-    "Swetha Sri Portfolio Loaded Successfully"
+    "Swetha R Portfolio Loaded Successfully"
 );
